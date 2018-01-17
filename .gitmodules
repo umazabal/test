@@ -1,0 +1,4 @@
+[submodule "umazabal/test"]
+	path = umazabal/test
+	url = git@github.com:umazabal/test.git
+	branch = master
